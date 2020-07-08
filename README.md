@@ -3,7 +3,7 @@ UI Clone - Twitter Responsive
 </h1>
 
 <p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://andrelinos-twitter-clone.netlify.app/">here</a>.</p>
 
 <p align="center">
   <a href="https://github.com/andrelinos/clone-twitter/graphs/contributors">
@@ -21,6 +21,8 @@ UI Clone - Twitter Responsive
 [<img src="https://avatars3.githubusercontent.com/u/35929943?s=460&v=4" width="75px;"/>](https://github.com/andrelinos)
 
 [Andrelino Silva](https://github.com/andrelinos)
+
+<img src="./screen.png" />
 
 ## Techs
 
